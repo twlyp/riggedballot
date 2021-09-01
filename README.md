@@ -1,4 +1,4 @@
-# sample ballot smart contract with bribing functionality
+# ballot smart contract with bribing functionality
 
 ```shell
 npx hardhat compile
